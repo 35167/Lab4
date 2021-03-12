@@ -6,6 +6,10 @@ import java.util.regex.Pattern;
 public class infografika {
     String tytul;
     String adresStrony;
+    String adresGrafiki;
+    String adresMiniaturki;
+    String wysokosc;
+    String szerokosc;
     public infografika(String tekst){
 
         Pattern pat = Pattern.compile("<title><!\\[CDATA\\[(.*)\\]\\]");
@@ -22,6 +26,38 @@ public class infografika {
             adresStrony = m.group(1);
         }else{
             adresStrony = "";
+        }
+
+        pat = Pattern.compile("<media:content url=\"(.*)\"");
+        m = pat.matcher(tekst);
+        if(m.find()){
+            adresGrafiki = m.group(1);
+        }else{
+            adresGrafiki = "";
+        }
+
+        pat = Pattern.compile("<description><!\\[CDATA\\[<div><img src=\"(.*)\" a");
+        m = pat.matcher(tekst);
+        if(m.find()){
+            adresMiniaturki = m.group(1);
+        }else{
+            adresMiniaturki = "";
+        }
+
+        pat = Pattern.compile("alt=\"\" width=\"(.*)\" h");
+        m = pat.matcher(tekst);
+        if(m.find()){
+            szerokosc = m.group(1);
+        }else{
+            szerokosc = "";
+        }
+
+        pat = Pattern.compile("height=\"(.*)\"\\/>");
+        m = pat.matcher(tekst);
+        if(m.find()){
+            wysokosc = m.group(1);
+        }else{
+            wysokosc = "";
         }
 
     }
