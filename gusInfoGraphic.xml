@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Główny Urząd Statystyczny</title>
+		<link>https://stat.gov.pl/</link>
+		<description>Główny Urząd Statystyczny - Portal Statystyki Publicznej</description>
+		<image>
+			<title>Główny Urząd Statystyczny</title>
+			<url>https://stat.gov.pl/szablony/portalinformacyjny/images/logo_normal.gif</url>
+			<link>https://stat.gov.pl/</link>
+		</image>
+		<atom:link href="https://stat.gov.pl/rss/pl/portalinformacyjny.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title><![CDATA[Obwieszczenie w sprawie wskaźnika cen dóbr inwestycyjnych za czwarty kwartał 2020 r.]]></title>
+			<pubDate><![CDATA[Fri, 26 Feb 2021 10:00:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-wskaznika-cen-dobr-inwestycyjnych-za-czwarty-kwartal-2020-r-,264,30.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-wskaznika-cen-dobr-inwestycyjnych-za-czwarty-kwartal-2020-r-,264,30.html</guid>
+			<description><![CDATA[Wskaźnik cen dóbr inwestycyjnych za IV kwartał 2020 r. w stosunku do III kwartału 2020 r. wyniósł 100,5 (wzrost cen o 0,5 %).]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Komunikat w sprawie ceny 1 m2 powierzchni użytkowej budynku mieszkalnego za IV kwartał 2020 r.]]></title>
+			<pubDate><![CDATA[Thu, 25 Feb 2021 10:00:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/komunikat-w-sprawie-ceny-1-m2-powierzchni-uzytkowej-budynku-mieszkalnego-za-iv-kwartal-2020-r-,265,29.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/komunikat-w-sprawie-ceny-1-m2-powierzchni-uzytkowej-budynku-mieszkalnego-za-iv-kwartal-2020-r-,265,29.html</guid>
+			<description><![CDATA[Cena 1m2 powierzchni użytkowej budynku mieszkalnego za IV kwartał 2020 r. wyniosła 5012 zł.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Komunikat w sprawie zmian cen produkcji budowlano-montażowej w czwartym kwartale 2020 roku]]></title>
+			<pubDate><![CDATA[Fri, 19 Feb 2021 10:00:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/komunikat-w-sprawie-zmian-cen-produkcji-budowlano-montazowej-w-czwartym-kwartale-2020-roku,266,29.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/komunikat-w-sprawie-zmian-cen-produkcji-budowlano-montazowej-w-czwartym-kwartale-2020-roku,266,29.html</guid>
+			<description><![CDATA[Ceny produkcji budowlano-montażowej w IV kwartale 2020 r. w stosunku do III kwartału 2020 r. wzrosły o 0,6 %.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Obwieszczenie w sprawie przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w 2020 r. i w drugim półroczu 2020 r.]]></title>
+			<pubDate><![CDATA[Thu, 18 Feb 2021 10:00:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-przecietnego-wynagrodzenia-miesiecznego-w-gospodarce-narodowej-w-2020-r-i-w-drugim-polroczu-2020-r-,276,8.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-przecietnego-wynagrodzenia-miesiecznego-w-gospodarce-narodowej-w-2020-r-i-w-drugim-polroczu-2020-r-,276,8.html</guid>
+			<description><![CDATA[Przeciętne wynagrodzenie miesięczne w gospodarce narodowej, pomniejszone o potrącone od ubezpieczonych składki na ubezpieczenia emerytalne, rentowe oraz chorobowe, w 2020 r. wyniosło 4512,41 zł, a w drugim półroczu 2020 r. wyniosło 4651,78 zł.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Komunikat w sprawie przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w styczniu 2021 roku]]></title>
+			<pubDate><![CDATA[Wed, 17 Feb 2021 10:00:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/komunikat-w-sprawie-przecietnego-miesiecznego-wynagrodzenia-w-sektorze-przedsiebiorstw-bez-wyplat-nagrod-z-zysku-w-styczniu-2021-roku,57,86.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/komunikat-w-sprawie-przecietnego-miesiecznego-wynagrodzenia-w-sektorze-przedsiebiorstw-bez-wyplat-nagrod-z-zysku-w-styczniu-2021-roku,57,86.html</guid>
+			<description><![CDATA[Miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w styczniu 2021 r. wyniosło 5536,79 zł.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Obwieszczenie w sprawie przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw w styczniu 2021 roku]]></title>
+			<pubDate><![CDATA[Wed, 17 Feb 2021 10:00:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-przecietnego-miesiecznego-wynagrodzenia-w-sektorze-przedsiebiorstw-w-styczniu-2021-roku,56,86.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-przecietnego-miesiecznego-wynagrodzenia-w-sektorze-przedsiebiorstw-w-styczniu-2021-roku,56,86.html</guid>
+			<description><![CDATA[Przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw w styczniu 2021 r. wyniosło 5536,80 zł.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Komunikat w sprawie wskaźnika cen towarów i usług konsumpcyjnych w styczniu 2021 roku]]></title>
+			<pubDate><![CDATA[Mon, 15 Feb 2021 10:00:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/komunikat-w-sprawie-wskaznika-cen-towarow-i-uslug-konsumpcyjnych-w-styczniu-2021-roku,48,85.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/komunikat-w-sprawie-wskaznika-cen-towarow-i-uslug-konsumpcyjnych-w-styczniu-2021-roku,48,85.html</guid>
+			<description><![CDATA[Wskaźnik cen towarów i usług konsumpcyjnych w styczniu 2021 r. w stosunku do grudnia 2020 r. wyniósł 101,2 (wzrost cen o 1,2%).]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Komunikat w sprawie przeciętnego wynagrodzenia w czwartym kwartale 2020 roku]]></title>
+			<pubDate><![CDATA[Tue, 09 Feb 2021 10:00:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/komunikat-w-sprawie-przecietnego-wynagrodzenia-w-czwartym-kwartale-2020-roku,271,31.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/komunikat-w-sprawie-przecietnego-wynagrodzenia-w-czwartym-kwartale-2020-roku,271,31.html</guid>
+			<description><![CDATA[Przeciętne wynagrodzenie w czwartym kwartale 2020 r. wyniosło 5457,98 zł.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Komunikat w sprawie kwoty bazowej w 2020 roku]]></title>
+			<pubDate><![CDATA[Tue, 09 Feb 2021 10:00:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/komunikat-w-sprawie-kwoty-bazowej-w-2020-roku,275,8.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/komunikat-w-sprawie-kwoty-bazowej-w-2020-roku,275,8.html</guid>
+			<description><![CDATA[Kwota bazowa, o której mowa w art. 19 powołanej ustawy, w 2020 r. wyniosła 4512,41 zł.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Komunikat w sprawie realnego wzrostu przeciętnego wynagrodzenia w 2020 roku w stosunku do 2019 roku]]></title>
+			<pubDate><![CDATA[Tue, 09 Feb 2021 10:00:00 +0100]]></pubDate>
+			<link>https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/komunikat-w-sprawie-realnego-wzrostu-przecietnego-wynagrodzenia-w-2020-roku-w-stosunku-do-2019-roku,274,8.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/komunikat-w-sprawie-realnego-wzrostu-przecietnego-wynagrodzenia-w-2020-roku-w-stosunku-do-2019-roku,274,8.html</guid>
+			<description><![CDATA[Realny wzrost przeciętnego wynagrodzenia w 2020 r. w stosunku do 2019 r. wyniósł 1,7 %.]]></description>
+		</item>
+	</channel>
+</rss>
