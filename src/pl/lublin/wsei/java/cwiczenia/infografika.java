@@ -10,6 +10,9 @@ public class infografika {
     String adresMiniaturki;
     String wysokosc;
     String szerokosc;
+
+
+
     public infografika(String tekst){
 
         Pattern pat = Pattern.compile("<title><!\\[CDATA\\[(.*)\\]\\]");
@@ -60,5 +63,6 @@ public class infografika {
             wysokosc = "";
         }
 
+        System.out.print("tytul: " + tytul+"\n adres grafiki: "+adresGrafiki + "\n adres strony: "+adresStrony+"\n adres miniaturki: "+ adresMiniaturki + "\n rozmiar: "+wysokosc+"x"+szerokosc);
     }
 }
